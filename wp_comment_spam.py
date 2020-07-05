@@ -26,4 +26,3 @@ for nb_comment in result:
     else:
         print("OK: Pas plus de %s commentaires" % (sys.argv[5]) + string)
 
-print("Hello %s" % (sys.argv[0]))
